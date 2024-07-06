@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning fullstack
 - 💞️ I’m looking to collaborate on webdeveloping
-- 📫
+- 📫 This is my first project
   
 - ⚡ 
 
