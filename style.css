@@ -1,0 +1,44 @@
+
+     .body{
+            justify-items: center;
+            justify-content: center;
+        }
+    .calculator{
+        
+        display:grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr ;
+        grid-template-rows:auto;
+        height:40vh;
+        width:40%;
+
+       
+     
+        
+    }
+    button{
+     background-color:brown;
+     border-radius:1rem;
+     border:none;
+     margin:2px;
+     color:white;
+     font-size:25px;
+    }
+    input{
+        background: skyblue;
+        height:10vh;
+        width:40%;
+        padding:0%;
+        margin:0%;
+        border-radius:1.5rem;
+        border:none;
+        font-size:25px;
+        color:black;
+        text-align:center;
+    }
+    .com{
+        margin-left:300px;
+        margin-top:200px;
+      
+        
+    }
+    
